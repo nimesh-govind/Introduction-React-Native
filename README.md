@@ -9,6 +9,9 @@ https://www.youtube.com/watch?v=0-S5a0eXPoc&t=4203s
 
 ## Documentation of Experience 
 
+NOTE:
+This setup uses XCode as in emulator therefore you must have XCode downloaded and installed. 
+
 ## Setting up Development environment 
 
 * Ensure you are running node version 12 or higher
