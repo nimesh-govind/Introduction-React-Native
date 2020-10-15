@@ -20,7 +20,7 @@ node -v
 v12.18.3
 ```
 
-Install Expo CLI globally 
+* Install Expo CLI globally 
 
 ```jsx
 npm i -g expo-cli
@@ -46,15 +46,15 @@ Ensure this is enabled - will enable your code to be formatted when file is save
 
 Development Environment now set up! 
 
-Create First Expo Project
+## Create First Expo Project
 
-In command line: (DoneWithIt - is just the name of the app from Youtube you can call it anything)
+* In command line: (DoneWithIt - is just the name of the app from Youtube you can call it anything)
 
 ```jsx
 expo init DoneWithIt
 ```
 
-Chose a workflow:
+*Chose a workflow:
 
 Managed workflow - will take care of all the complexity behind the scene therefore will not give you Android and iOS projects/folders (pure Javascript)
 
@@ -62,9 +62,9 @@ Bare workflow - bare-bone react native workflow so you will have the Android and
 
 File setup now complete!
 
-Starting Expo Server to Serve our App
+## Starting Expo Server to Serve our App
 
-In Terminal
+* In Terminal
 
 ```jsx
 npm start
@@ -76,7 +76,7 @@ It will open up to Metro Bundler which is the JS bundler for React Native
 
 Code Walkthrough starts from this section...
 
-SafeAreaView 
+* SafeAreaView 
 
 ```jsx
 import { StyleSheet, Text, View, SafeAreaView } from 'react-native';
@@ -91,7 +91,7 @@ import { StyleSheet, Text, View, SafeAreaView } from 'react-native';
 
 -wrap around components
 
-Text - numberOfLines
+* Text - numberOfLines
 
 ```jsx
 <SafeAreaView style={styles.container}>
@@ -106,7 +106,7 @@ Text - numberOfLines
 
 -can choose number of lines 
 
-Adding the press
+* Adding the press
 
 ```jsx
 export default function App() {
@@ -122,9 +122,9 @@ export default function App() {
 
 -will console.log when the text is pressed/clicked 
 
-Adding an Image
+* Adding an Image
 
-Locally
+* Locally
 
 -image best placed in assets folder 
 
@@ -166,7 +166,7 @@ const styles = StyleSheet.create({
 console.log(require('./assets/profile-photo.jpeg'))
 ```
 
-Network Images
+* Network Images
 
 -pass an object
 
@@ -208,7 +208,7 @@ const styles = StyleSheet.create({
 });
 ```
 
-Buttons
+* Buttons
 
 -can type button in as component and it will auto import
 
