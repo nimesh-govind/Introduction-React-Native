@@ -1,7 +1,7 @@
 # React Native Thunder Talk
 An introduction to React Native - Thunder Talk by Nimesh Govind
 
-Slide accessible at:
+Slides accessible at:
 * https://drive.google.com/file/d/1sLyyRBBQqjWV15W116RhfP2KSkvn5dmp/view?usp=sharing
 
 Tutorial Video followed: 
