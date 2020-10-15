@@ -1,4 +1,4 @@
-# React-Native-Thunder-Talk
+# React Native Thunder Talk
 An introduction to React Native - Thunder Talk by Nimesh Govind
 
 Slide accessible at:
