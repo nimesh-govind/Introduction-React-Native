@@ -54,7 +54,7 @@ Development Environment now set up!
 expo init DoneWithIt
 ```
 
-*Chose a workflow:
+* Chose a workflow:
 
 Managed workflow - will take care of all the complexity behind the scene therefore will not give you Android and iOS projects/folders (pure Javascript)
 
