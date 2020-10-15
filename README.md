@@ -9,9 +9,9 @@ https://www.youtube.com/watch?v=0-S5a0eXPoc&t=4203s
 
 ## Documentation of Experience 
 
-Setting up Development environment 
+## Setting up Development environment 
 
--Ensure you are running node version 12 or higher
+* Ensure you are running node version 12 or higher
 
 to check - in command: 
 
@@ -53,8 +53,6 @@ In command line: (DoneWithIt - is just the name of the app from Youtube you can 
 ```jsx
 expo init DoneWithIt
 ```
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8c5da4fd-7485-487b-a9fa-71a07f910ee5/Screen_Shot_2020-09-14_at_4.51.27_PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8c5da4fd-7485-487b-a9fa-71a07f910ee5/Screen_Shot_2020-09-14_at_4.51.27_PM.png)
 
 Chose a workflow:
 
